@@ -1,0 +1,7 @@
+autoprefixer:
+npm run autoprefixer-cli -o ./css/style.prefixed.css ./css/style.css
+
+nu-html-checker:
+npm run nu-html-checker -formatter stylish ./*.html - ale nie wiem czy i jak to ma dziać,
+dokumentacja do tego składa się z kilku zdań z których nic nie wynika, na następnej rozmowie
+muszę z Tobą prouszyć ten temat.
